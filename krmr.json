@@ -1,6 +1,6 @@
 {
-  "name": "Kuramori_test",
+  "name": "Kuramori ADA stakepool",
   "description": "Kuramori is a Cardano stakepool focused on security and stability.",
-  "ticker": "KRMRTST",
+  "ticker": "KRMR",
   "homepage": "https://github.com/nyanpoolz/pool_kuramori"
   }
